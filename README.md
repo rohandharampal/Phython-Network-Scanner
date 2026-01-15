@@ -22,5 +22,4 @@ pip install scapy
 # Basic scan
 python scanner.py --target 192.168.1 --range 1-50
 
-# ARP scan (requires admin)
-sudo python scanner.py --method arp
+
